@@ -1,0 +1,12 @@
+D:\Нефидов Дмитрий (babuleh)\babuleh\babuleh\obj\Debug\babuleh.csproj.AssemblyReference.cache
+D:\Нефидов Дмитрий (babuleh)\babuleh\babuleh\obj\Debug\babuleh.Form1.resources
+D:\Нефидов Дмитрий (babuleh)\babuleh\babuleh\obj\Debug\babuleh.Form2.resources
+D:\Нефидов Дмитрий (babuleh)\babuleh\babuleh\obj\Debug\babuleh.Properties.Resources.resources
+D:\Нефидов Дмитрий (babuleh)\babuleh\babuleh\obj\Debug\babuleh.csproj.GenerateResource.cache
+D:\Нефидов Дмитрий (babuleh)\babuleh\babuleh\obj\Debug\babuleh.csproj.CoreCompileInputs.cache
+D:\Нефидов Дмитрий (babuleh)\babuleh\babuleh\bin\Debug\babuleh.exe.config
+D:\Нефидов Дмитрий (babuleh)\babuleh\babuleh\bin\Debug\babuleh.exe
+D:\Нефидов Дмитрий (babuleh)\babuleh\babuleh\bin\Debug\babuleh.pdb
+D:\Нефидов Дмитрий (babuleh)\babuleh\babuleh\obj\Debug\babuleh.exe
+D:\Нефидов Дмитрий (babuleh)\babuleh\babuleh\obj\Debug\babuleh.pdb
+D:\Нефидов Дмитрий (babuleh)\babuleh\babuleh\obj\Debug\babuleh.Form3.resources
